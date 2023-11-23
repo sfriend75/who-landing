@@ -4,6 +4,7 @@
   "engines": {
     "node": ">=16"
   },
+  "homepage": ".",
   "private": true,
   "scripts": {
     "start": "npm run build && npx serve -s build",
